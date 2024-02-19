@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    padding-left: 5%;
+}
+
+h2:hover {
+    background-color: #b5cac3;
+    transition-duration: 0.5s;
+}
